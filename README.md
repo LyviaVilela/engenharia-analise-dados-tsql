@@ -1,23 +1,20 @@
-# 🗄️ Projeto Final: Engenharia e Análise de Dados com T-SQL | NHANES 1988-2018
+# 🗄️ Projeto Final: Engenharia e Análise de Dados com T-SQL | Sistema de Informações Hospitalares – SUS
 
 
 ### ✅ Visão Geral e Objetivos
 
-Este projeto foi desenvolvido para simular um ciclo completo de engenharia e análise de dados, utilizando exclusivamente T-SQL no SQL Server. O foco é trabalhar com um dataset público massivo e transformá-lo em insights de negócio acionáveis.
-O dataset escolhido foi o NHANES 1988-2018, um dos mais robustos conjuntos de dados de saúde pública, contendo informações sobre demografia, hábitos alimentares, exames laboratoriais e fisiológicos, histórico ocupacional, exposição a agentes químicos, uso de medicamentos e mortalidade.
+Este projeto foi desenvolvido para simular um ciclo completo de engenharia e análise de dados, utilizando exclusivamente T-SQL no SQL Server. O foco é trabalhar com um dataset público massivo de hospitais e leitos do SUS e transformá-lo em insights de negócio acionáveis sobre o sistema de saúde brasileiro.
 
-### Tema: Saúde Pública – NHANES
+### Tema: Saúde Pública – Sistema de Informações Hospitalares do SUS
 
-**Objetivo:**  Transformar dados históricos de saúde, nutrição, ocupação e exposições ambientais em insights acionáveis sobre a saúde da população entre 1988 e 2018.
+**Objetivo:**  Transformar dados históricos de hospitais, leitos e atendimentos do SUS em insights acionáveis sobre a capacidade hospitalar, distribuição geográfica e padrões de atendimento no Brasil.
 
 **Principais categorias analisadas:**
-- 🧑‍🤝‍🧑 Demografia
-- 🥗 Hábitos alimentares e consumo nutricional
-- 🧪 Exames laboratoriais e fisiológicos
-- 💼 Histórico ocupacional
-- ⚗️ Exposição a agentes químicos
-- 💊 Uso de medicamentos
-- ⚰️ Mortalidade
+- 🏥 Hospitais – quantidade, tipo e localização
+- 🛏️ Leitos – disponibilidade por tipo (clínicos, cirúrgicos, UTI etc.)
+- 📊 Atendimentos – volumes de internações e procedimentos
+- 🌎 Distribuição geográfica – análise por estado, região e município
+- 📈 Tendências temporais – evolução ao longo dos anos
 
 ###  **📊 Organização & Ferramentas**
 - Versionamento: Git para código e histórico de alterações
