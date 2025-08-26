@@ -110,9 +110,10 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an√
 
 | Nome | Papel | GitHub |
 |------|-------|--------|
+|**Guilherme Silviano**|A decidir| [@guisilviano](https://github.com/guisilviano) |
 | **Lyvia** | A decidir | [@LyviaVilela](https://github.com/LyviaVilela) |
-| **Nicole** | A decidir | |
-| **Paulo** | A decidir | |
+| **Nicole** | A decidir | [@niiukiyo](https://github.com/niiukiyo) |
+| **Paulo** | A decidir | [@paulok767](https://github.com/paulok767) |
 | **Sergio** | A decidir | [@SergioJunior20](https://github.com/SergioJunior20) |
 | **Tiago** | A decidir |[@TiagoCosta777](https://github.com/TiagoCosta777) |
 
