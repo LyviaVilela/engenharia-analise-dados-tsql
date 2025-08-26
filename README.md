@@ -27,17 +27,17 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 
 ## Fontes:
 
-- *Dataset:*  [Hospital e Leitos] (https://dados.gov.br/dados/conjuntos-dados/hospitais-e-leitos?utm_source=chatgpt.com)
-- *Descrição*: Disponibilização de dados gerais dos estabelecimentos hospitalares, leitos gerais e complementares, bem como informações de contato com os estabelecimentos como endereço, telefone e e-mail.
-- *Formato:* Arquivos CSV disponibilizados para download
-- *Dicionário de Dados:* [Link para o Dicionário](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/Leitos_SUS/Dicion%C3%A1rio_Leito_hospitalar.pdf) 
-- *Datasets Usados:* [Estimativas da População](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads), [SIH/SUS - Hospital Admissions Municipalities] (https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus)
+- **Dataset:**  [Hospital e Leitos](https://dados.gov.br/dados/conjuntos-dados/hospitais-e-leitos?utm_source=chatgpt.com)
+  - **Descrição**: Disponibilização de dados gerais dos estabelecimentos hospitalares, leitos gerais e complementares, bem como informações de contato com os estabelecimentos como endereço, telefone e e-mail.
+- **Formato:** Arquivos CSV disponibilizados para download
+- **Dicionário de Dados:** [Link para o Dicionário](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/Leitos_SUS/Dicion%C3%A1rio_Leito_hospitalar.pdf) 
+- **Datasets Usados:** [Estimativas da População](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads), [SIH/SUS - Hospital Admissions Municipalities](https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus)
 
 ---
 ## Gestão e Acompanhamento
 
-- *Kanban/Quadro de Gestão:* [Quadro de Gestão](https://trello.com/invite/b/68a5f12cadae6b74df85dc57/ATTI45e35eb915bc39df23a920147c3799c1637B7881/analise-de-dados)
-- *Dashboard de BI:* (Em Desenvolvimento)
+- **Kanban/Quadro de Gestão:** [Quadro de Gestão](https://trello.com/invite/b/68a5f12cadae6b74df85dc57/ATTI45e35eb915bc39df23a920147c3799c1637B7881/analise-de-dados)
+- **Dashboard de BI:** (Em Desenvolvimento)
   
 ---
 ## 📅 Cronograma de Entregas
