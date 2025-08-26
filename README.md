@@ -25,16 +25,42 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 ---
 ## 🔎 Plano de Análise
 
----
-## Datasets
+  ## 🌎 Capacidade e Distribuição Geográfica 
 
-## Fontes:
+- Qual a distribuição de leitos (total e de UTI) por 1000 habitantes por estado e região do país? 
+- Quais são os 10 municípios com a melhor e a pior taxa de leitos por habitante? Existe correlação com o porte populacional? 
+- Como a proporção de leitos públicos (SUS) e privados varia entre as unidades federativas?
+
+## 📊 Eficiência e Utilização dos Recursos 
+
+- Considerando os dados do SIH/SUS, quais hospitais apresentam os maiores volumes de procedimentos? E os maiores valores financeiros? 
+- Qual a taxa de ocupação média (proxied pela quantidade de procedimentos por leito) por tipo de leito e por região? 
+- Há sazonalidade na realização de procedimentos hospitalares? 
+
+## 📈 Acessibilidade e Equidade 
+
+- Quais estados e regiões possuem a maior e a menor densidade de hospitais por área ou por população? 
+- Qual a distribuição de leitos de UTI? Há vazios assistenciais (municípios sem nenhum leito de UTI) em algum estado?
+ 
+---
+## Dataset
 
 - **Dataset:**  [Hospital e Leitos](https://dados.gov.br/dados/conjuntos-dados/hospitais-e-leitos?utm_source=chatgpt.com)
-  - **Descrição**: Disponibilização de dados gerais dos estabelecimentos hospitalares, leitos gerais e complementares, bem como informações de contato com os estabelecimentos como endereço, telefone e e-mail.
-- **FormatoS:** Arquivos CSV, PDF disponibilizados para download  
+  - **Descrição:** Relação de hospitais, quantidade e tipo de leitos (UTI, clínico, cirúrgico, etc.), esfera administrativa (federal, estadual, municipal, privado), localização (município, estado). 
+  - **Formatos:** Arquivos CSV disponibilizados para download  
 - **Dicionário de Dados:** [Link para o Dicionário](https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/Leitos_SUS/Dicion%C3%A1rio_Leito_hospitalar.pdf) 
-- **Datasets Usados:** [Estimativas da População](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads), [SIH/SUS - Hospital Admissions Municipalities](https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus)
+- **Dataset Usado:** [Leitos 2024](https://educadventista-my.sharepoint.com/:x:/r/personal/lyvia_vilela_educadventista_org/Documents/Leitos_2024%20(1).xlsx?d=wea1f64dd5af64c148f5d0ded7948c194&e=4%3a422a7541aff74b689022d01e78574bc1&sharingv2=true&fromShare=true&at=9)
+
+## Datasets de Apoio
+- **Dataset:** [Estimativas da População](https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html?=&t=downloads)
+  - **Descrição:** Estimativas da população residente para os anos recentes, por município e estado. Será a base para o cálculo de métricas per capita.
+  - **Formatos:** Arquivos XLS, PDF e ODS disponibilizados para download
+- **Dataset Usado:** [Estimativa de 2024](https://educadventista-my.sharepoint.com/:x:/r/personal/lyvia_vilela_educadventista_org/Documents/estimativa_dou_2024.xlsx?d=w54d4ae4754514e30801b6887affc6552&e=4%3afe359c008696438d917c6e8ef570e3ee&sharingv2=true&fromShare=true&at=9)
+
+- **Dataset:** [SIH/SUS - Hospital Admissions Municipalities](https://www.kaggle.com/datasets/andersonfranca/sistema-de-informaes-hospitalares-sus)
+  - **Descrição:** Dados de internações e procedimentos hospitalares financiados pelo SUS (quantidade, valor, tempo de permanência). Permitirá analisar a utilização e eficiência.
+  - **Formatos:** Arquivos CSV disponibilizados para download
+- **Dataset Usado:** [RD202401](https://educadventista-my.sharepoint.com/:x:/r/personal/lyvia_vilela_educadventista_org/Documents/RD202401.xlsx?d=w3dc9f8220c8e4ed0bfc1fade12374585&e=4%3a3444863d26bb447699e9a2e70d7fb70a&sharingv2=true&fromShare=true&at=9)
 
 ---
 ## Gestão e Acompanhamento
