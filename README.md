@@ -65,10 +65,10 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an√
 
 | Nome | Papel | GitHub |
 |------|-------|--------|
-| **Lyvia** | A decidir ||
+| **Lyvia** | A decidir | [@LyviaVilela](https://github.com/LyviaVilela) |
 | **Nicole** | A decidir | |
 | **Paulo** | A decidir | |
-| **Sergio** | A decidir | |
+| **Sergio** | A decidir | [@SergioJunior20](https://github.com/SergioJunior20) |
 | **Tiago** | A decidir | |
 
 
