@@ -25,23 +25,31 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 ---
 ## 🔎 Plano de Análise
 
-  ## 🌎 Capacidade e Distribuição Geográfica 
+## 🌎Capacidade e Distribuição Geográfica 
 
 - Qual a distribuição de leitos (total e de UTI) por 1000 habitantes por estado e região do país? 
 - Quais são os 10 municípios com a melhor e a pior taxa de leitos por habitante? Existe correlação com o porte populacional? 
-- Como a proporção de leitos públicos (SUS) e privados varia entre as unidades federativas?
+- Como a proporção de leitos públicos (SUS) e privados varia entre as unidades federativas? 
+- Qual a proporção de leitos de alta complexidade em relação ao total por estado? 
 
-## 📊 Eficiência e Utilização dos Recursos 
+## 📊Eficiência e Utilização dos Recursos 
 
-- Considerando os dados do SIH/SUS, quais hospitais apresentam os maiores volumes de procedimentos? E os maiores valores financeiros? 
+- Considerando os dados do SIH/SUS, quais hospitais apresentam os maiores volumes de procedimentos e os maiores valores financeiros? 
 - Qual a taxa de ocupação média (proxied pela quantidade de procedimentos por leito) por tipo de leito e por região? 
 - Há sazonalidade na realização de procedimentos hospitalares? 
+- Qual o custo médio por procedimento por tipo de hospital e região? 
 
-## 📈 Acessibilidade e Equidade 
+## 📈Acessibilidade e Equidade 
 
 - Quais estados e regiões possuem a maior e a menor densidade de hospitais por área ou por população? 
-- Qual a distribuição de leitos de UTI? Há vazios assistenciais (municípios sem nenhum leito de UTI) em algum estado?
- 
+- Qual a distribuição de leitos de UTI? Existem municípios sem nenhum leito de UTI (vazios assistenciais)? 
+
+## 👤Gestão de Recursos Humanos 
+
+- Existe correlação entre número de profissionais por hospital e taxa de mortalidade ou tempo médio de internação? 
+- Quais especialidades médicas mais realizam procedimentos de alta complexidade? 
+- Como a taxa de mortalidade se correlaciona com a proporção de profissionais por leito?
+
 ---
 ## Dataset
 
