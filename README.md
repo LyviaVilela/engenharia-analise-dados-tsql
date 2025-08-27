@@ -110,12 +110,12 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an√
 
 | Nome | Papel | GitHub |
 |------|-------|--------|
-|**Guilherme Silviano**|A decidir| [@guisilviano](https://github.com/guisilviano) |
-| **Lyvia** | A decidir | [@LyviaVilela](https://github.com/LyviaVilela) |
-| **Nicole** | A decidir | [@niiukiyo](https://github.com/niiukiyo) |
-| **Paulo** | A decidir | [@paulok767](https://github.com/paulok767) |
-| **Sergio** | A decidir | [@SergioJunior20](https://github.com/SergioJunior20) |
-| **Tiago** | A decidir |[@TiagoCosta777](https://github.com/TiagoCosta777) |
+|**Guilherme Silviano**| Analista de dados | [@guisilviano](https://github.com/guisilviano) |
+| **Lyvia** | Engenheira de dados | [@LyviaVilela](https://github.com/LyviaVilela) |
+| **Nicole** | Analista de dados | [@niiukiyo](https://github.com/niiukiyo) |
+| **Paulo** | Arquiteto de dados | [@paulok767](https://github.com/paulok767) |
+| **Sergio** | Arquiteto de dados | [@SergioJunior20](https://github.com/SergioJunior20) |
+| **Tiago** | Engenheiro de dados |[@TiagoCosta777](https://github.com/TiagoCosta777) |
 
 
 <div align="center">
