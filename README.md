@@ -14,7 +14,6 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 - 🛏️ Leitos – disponibilidade por tipo (clínicos, cirúrgicos, UTI etc.)
 - 📊 Atendimentos – volumes de internações e procedimentos
 - 🌎 Distribuição geográfica – análise por estado, região e município
-- 📈 Tendências temporais – evolução ao longo dos anos
 
 ###  **📊 Organização & Ferramentas**
 - Versionamento: Git para código e histórico de alterações
