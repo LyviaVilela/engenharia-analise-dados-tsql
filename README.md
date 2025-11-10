@@ -49,6 +49,10 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 - Quais especialidades médicas mais realizam procedimentos de alta complexidade? 
 - Como a taxa de mortalidade se correlaciona com a proporção de profissionais por leito?
 
+--------
+
+[backup do banco de dados](https://drive.google.com/file/d/1ccpYNLFa2dX3h_bnXpiX_2OvRvZx7vQX/view?usp=drive_link)
+
 ---
 ## Dataset
 
