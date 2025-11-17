@@ -53,45 +53,45 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 
 1. Capacidade e Distribuição de Leitos
    
-•Quantos leitos de UTI (total, adulto, pediátrico) existem por região/estado?
+ - Quantos leitos de UTI (total, adulto, pediátrico) existem por região/estado?
 
-•Como a disponibilidade de leitos de UTI coronariana se distribui entre as regiões em relação à população?
+ - Como a disponibilidade de leitos de UTI coronariana se distribui entre as regiões em relação à população?
 
-•Onde faltam leitos de UTI em relação à população?
+ - Onde faltam leitos de UTI em relação à população?
 
-•Os leitos estão concentrados em poucos hospitais? (Quantos hospitais concentram 50% dos leitos?)
+ - Os leitos estão concentrados em poucos hospitais? (Quantos hospitais concentram 50% dos leitos?)
 
-•Regiões com maior carência de leitos especializados.
+ - Regiões com maior carência de leitos especializados.
 
-•Qual a diversidade de oferta de leitos por região? (Índice de diversidade por hospital)
+ - Qual a diversidade de oferta de leitos por região? (Índice de diversidade por hospital)
 
 3. Comparações SUS vs Particular
    
-•Qual a proporção de leitos SUS vs particulares por tipo de UTI?
+ - Qual a proporção de leitos SUS vs particulares por tipo de UTI?
 
-•Onde há capacidade ociosa que poderia ser convertida para SUS?
+ - Onde há capacidade ociosa que poderia ser convertida para SUS?
 
-•Estados com maior deficiência de UTI SUS.
+ - Estados com maior deficiência de UTI SUS.
 
 5. Desempenho, Eficiência e Ociosidade
    
-•Quais hospitais têm maior ociosidade de UTI?
+ - Quais hospitais têm maior ociosidade de UTI?
 
-•Onde há capacidade ociosa que poderia ser melhor distribuída?
+ - Onde há capacidade ociosa que poderia ser melhor distribuída?
 
 7. Perfil dos Hospitais
    
-•Qual tipo de gestão tem mais leitos de UTI?
+ - Qual tipo de gestão tem mais leitos de UTI?
 
-•Densidade de leitos por natureza jurídica.
+ - Densidade de leitos por natureza jurídica.
 
-•Como a natureza jurídica influencia na oferta de leitos?
+ - Como a natureza jurídica influencia na oferta de leitos?
 
-•Quais hospitais são referência em leitos pediátricos / neonatais?
+ - Quais hospitais são referência em leitos pediátricos / neonatais?
 
 9. Análises Avançadas
     
-•Top 10 municípios com melhor e pior taxa de leitos por habitante e correlação com porte populacional.
+ - Top 10 municípios com melhor e pior taxa de leitos por habitante e correlação com porte populacional.
 
 
 --------
