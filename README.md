@@ -134,6 +134,6 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 **Disciplina:** Gerenciamento de Banco de Dados  
 **Instituição:** Unasp 
 
-**Período:** 2024.2
+**Período:** 2025.2
 
 
