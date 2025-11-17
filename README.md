@@ -49,7 +49,7 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 - Quais especialidades médicas mais realizam procedimentos de alta complexidade? 
 - Como a taxa de mortalidade se correlaciona com a proporção de profissionais por leito?
 
-##📌 Perguntas de Análise Respondidas
+## 📌 Perguntas de Análise Respondidas
 
 1. Capacidade e Distribuição de Leitos
 •Quantos leitos de UTI (total, adulto, pediátrico) existem por região/estado?
