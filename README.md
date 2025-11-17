@@ -52,29 +52,45 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 ## 📌 Perguntas de Análise Respondidas
 
 1. Capacidade e Distribuição de Leitos
+   
 •Quantos leitos de UTI (total, adulto, pediátrico) existem por região/estado?
+
 •Como a disponibilidade de leitos de UTI coronariana se distribui entre as regiões em relação à população?
+
 •Onde faltam leitos de UTI em relação à população?
+
 •Os leitos estão concentrados em poucos hospitais? (Quantos hospitais concentram 50% dos leitos?)
+
 •Regiões com maior carência de leitos especializados.
+
 •Qual a diversidade de oferta de leitos por região? (Índice de diversidade por hospital)
 
-2. Comparações SUS vs Particular
+3. Comparações SUS vs Particular
+   
 •Qual a proporção de leitos SUS vs particulares por tipo de UTI?
+
 •Onde há capacidade ociosa que poderia ser convertida para SUS?
+
 •Estados com maior deficiência de UTI SUS.
 
-3. Desempenho, Eficiência e Ociosidade
+5. Desempenho, Eficiência e Ociosidade
+   
 •Quais hospitais têm maior ociosidade de UTI?
+
 •Onde há capacidade ociosa que poderia ser melhor distribuída?
 
-4. Perfil dos Hospitais
+7. Perfil dos Hospitais
+   
 •Qual tipo de gestão tem mais leitos de UTI?
+
 •Densidade de leitos por natureza jurídica.
+
 •Como a natureza jurídica influencia na oferta de leitos?
+
 •Quais hospitais são referência em leitos pediátricos / neonatais?
 
-5. Análises Avançadas
+9. Análises Avançadas
+    
 •Top 10 municípios com melhor e pior taxa de leitos por habitante e correlação com porte populacional.
 
 
