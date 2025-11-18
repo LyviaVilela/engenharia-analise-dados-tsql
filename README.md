@@ -1,7 +1,7 @@
 # 🗄️ Projeto Final: Engenharia e Análise de Dados com T-SQL | Sistema de Informações Hospitalares – SUS
 
 
-### ✅ Visão Geral e Objetivos
+###  Visão Geral e Objetivos
 
 Este projeto foi desenvolvido para simular um ciclo completo de engenharia e análise de dados, utilizando exclusivamente T-SQL no SQL Server. O foco é trabalhar com um dataset público massivo de hospitais e leitos do SUS e transformá-lo em insights de negócio acionáveis sobre o sistema de saúde brasileiro.
 
@@ -24,75 +24,31 @@ Este projeto foi desenvolvido para simular um ciclo completo de engenharia e an�
 ---
 ## 🔎 Plano de Análise
 
-## 🌎Capacidade e Distribuição Geográfica 
+## 🌎Capacidade e Distribuição Geográfica
 
-- Qual a distribuição de leitos (total e de UTI) por 1000 habitantes por estado e região do país? 
-- Quais são os 10 municípios com a melhor e a pior taxa de leitos por habitante? Existe correlação com o porte populacional? 
-- Como a proporção de leitos públicos (SUS) e privados varia entre as unidades federativas? 
-- Qual a proporção de leitos de alta complexidade em relação ao total por estado? 
+- Quantos leitos de UTI (total, adulto, pediátrico, neonatal) existem por região/estado?
+- Como a disponibilidade de leitos de UTI coronariana se distribui entre as regiões do país em relação à população total?
+- Onde faltam leitos de UTI em relação à população?
+- Estados com maior deficiência de UTI SUS
+- Regiões com maior carência de leitos especializados
 
-## 📊Eficiência e Utilização dos Recursos 
+## 📊Eficiência e Ocupação
 
-- Considerando os dados do SIH/SUS, quais hospitais apresentam os maiores volumes de procedimentos e os maiores valores financeiros? 
-- Qual a taxa de ocupação média (proxied pela quantidade de procedimentos por leito) por tipo de leito e por região? 
-- Há sazonalidade na realização de procedimentos hospitalares? 
-- Qual o custo médio por procedimento por tipo de hospital e região? 
+- Quais hospitais têm maior ociosidade de UTI?
+- Os leitos estão concentrados em poucos hospitais?
+- Top 10 municípios com melhor e pior taxa de leitos por habitante
 
-## 📈Acessibilidade e Equidade 
+## 📈Especialização e Diversidade
 
-- Quais estados e regiões possuem a maior e a menor densidade de hospitais por área ou por população? 
-- Qual a distribuição de leitos de UTI? Existem municípios sem nenhum leito de UTI (vazios assistenciais)? 
+- Como a natureza jurídica influencia na oferta de leitos?
+- Quais hospitais são referência em leitos pediátricos/neonatais?
+- Qual a diversidade de oferta de leitos por região?
 
-## 👤Gestão de Recursos Humanos 
+## 👤 SUS vs. Privado
 
-- Existe correlação entre número de profissionais por hospital e taxa de mortalidade ou tempo médio de internação? 
-- Quais especialidades médicas mais realizam procedimentos de alta complexidade? 
-- Como a taxa de mortalidade se correlaciona com a proporção de profissionais por leito?
-
-## 📌 Perguntas de Análise Respondidas
-
-1. Capacidade e Distribuição de Leitos
-   
- - Quantos leitos de UTI (total, adulto, pediátrico) existem por região/estado?
-
- - Como a disponibilidade de leitos de UTI coronariana se distribui entre as regiões em relação à população?
-
- - Onde faltam leitos de UTI em relação à população?
-
- - Os leitos estão concentrados em poucos hospitais? (Quantos hospitais concentram 50% dos leitos?)
-
- - Regiões com maior carência de leitos especializados.
-
- - Qual a diversidade de oferta de leitos por região? (Índice de diversidade por hospital)
-
-3. Comparações SUS vs Particular
-   
- - Qual a proporção de leitos SUS vs particulares por tipo de UTI?
-
- - Onde há capacidade ociosa que poderia ser convertida para SUS?
-
- - Estados com maior deficiência de UTI SUS.
-
-5. Desempenho, Eficiência e Ociosidade
-   
- - Quais hospitais têm maior ociosidade de UTI?
-
- - Onde há capacidade ociosa que poderia ser melhor distribuída?
-
-7. Perfil dos Hospitais
-   
- - Qual tipo de gestão tem mais leitos de UTI?
-
- - Densidade de leitos por natureza jurídica.
-
- - Como a natureza jurídica influencia na oferta de leitos?
-
- - Quais hospitais são referência em leitos pediátricos / neonatais?
-
-9. Análises Avançadas
-    
- - Top 10 municípios com melhor e pior taxa de leitos por habitante e correlação com porte populacional.
-
+- Qual a proporção de leitos SUS vs. particulares por tipo de UTI?
+- Qual tipo de gestão tem mais leitos de UTI?
+- Onde há capacidade ociosa que poderia ser convertida para SUS?
 
 --------
 
